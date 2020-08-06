@@ -1,0 +1,33 @@
+2020-05-05_13:31:27
+Name:                Cards:                      Score:
+arek                 4♦9♥8♦                      21
+janek                A♠5♣Q♥6♦                    25
+Bot1                 6♥8♠A♥                      25
+Bot2                 5♠3♠D♣                      18
+Bot3                 K♠D♦3♣                      17
+The winner is:
+arek
+
+
+2020-05-05_13:31:37
+Name:                Cards:                      Score:
+arek                 A♣J♥A♥                      24
+janek                4♣2♦8♠D♥                    24
+Bot1                 K♥8♦9♦                      21
+Bot2                 9♥J♣4♠                      15
+Bot3                 6♠D♠5♣                      21
+The winners are:
+Bot1
+Bot3
+
+
+2020-05-05_13:31:54
+Name:                Cards:                      Score:
+tomek                9♣K♦8♣                      21
+Bot1                 6♠J♦5♣7♠                    20
+Bot2                 K♣A♥7♣                      22
+Bot3                 Q♣5♥Q♥K♠                    15
+The winner is:
+tomek
+
+
